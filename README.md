@@ -1,7 +1,7 @@
   
 ## 🌐Contact me
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/thaitruongnguyenquang) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tnqthai) 
+[![Facebook](https://img.shields.io/badge/facebook-%2320A1F1.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/thaitruongnguyenquang) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/tnqthai) 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:2002quangthai@gmail.com) 
 
 # 💻Tech Stack
