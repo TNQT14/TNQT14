@@ -3,7 +3,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/tnqthai) 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:2002quangthai@gmail.com) 
 [![Facebook](https://img.shields.io/badge/facebook-%2320A1F1.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/thaitruongnguyenquang) 
-[![Facebook](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tn_quangthai/) 
 
 <h1> My Skills <img src="[https://th.bing.com/th/id/OIP.bqNiVhY3WRRQXmBZiS8qSgAAAA?pid=ImgDet&rs=1](https://i.pinimg.com/originals/88/00/81/8800813ba1444b66dbff3d47c8d778f8.gif)" width="40" style="margin-bottom:-8px"/> </h1>
 
