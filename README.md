@@ -47,7 +47,7 @@
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=TNQT14&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=TNQT14&theme=radical&hide_border=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=TNQT14&theme=radical&hide_border=false&count_private=true&include_all_commits=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TNQT14&theme=radical&hide_border=false&langs_count=8&include_all_commits=true&count_private=true&layout=compact)
 
 ---
